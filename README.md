@@ -1,5 +1,7 @@
 # linear-regression-js
 
+```linear_regression()``` returns "m" (slope), "n" (intercept) and "r_squared".
+
 example:
 ```javascript
 
@@ -21,7 +23,7 @@ console.log(linear_regression(points));
 ```
 
 Result:
-```
+```javascript
 { m: -1.3536754507628295,
   n: 74.11511789181694,
   r_squared: 0.7176465181664973 }
